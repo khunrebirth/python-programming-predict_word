@@ -1,4 +1,4 @@
-import curses # Downloads curses http://www.lfd.uci.edu/~gohlke/pythonlibs/#curses
+import curses
 
 # ==========================
 # Core Functions
