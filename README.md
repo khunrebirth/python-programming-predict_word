@@ -1,5 +1,5 @@
 # Program Predict Word
-> โปรแกรมทำนายคำ โดยอ่านจาก FILE.txt
+> โปรแกรมทำนายคำ โดยอ่านจาก FILE.txt <br />
 > ศึกษาจาก Channel ของ SIPA (https://www.youtube.com/channel/UCgWqtSlHS0hCFlV4OfcAmAQ)
 
 ### การติดตั้ง
